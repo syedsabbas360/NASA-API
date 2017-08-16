@@ -1,6 +1,6 @@
 ## MarsRover-React
 
-A react application that uses NASA MARS ROVER API and feature stateless and stateful components and uses inline bootstrap.
+A react application that uses NASA MARS ROVER API and feature stateless and stateful components and uses bootstrap.
 
 ## ScreenShot
 
